@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5157",
+  "folder": "YouTube__watch_20260513235825_1ea9ba",
+  "base_name": "Darksiders_4_Announcement_Teaser_6eafBknCPcI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Boksams/Cloud-Downloads-1/releases/tag/co-releases-v1-5157",
+  "files": [
+    {
+      "name": "Darksiders_4_Announcement_Teaser_6eafBknCPcI_1080p.mp4",
+      "url": "https://github.com/Boksams/Cloud-Downloads-1/releases/download/co-releases-v1-5157/Darksiders_4_Announcement_Teaser_6eafBknCPcI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/Boksams/Cloud-Downloads-1/releases/assets/419720717",
+      "id": 419720717,
+      "size": 14486287,
+      "download_count": 0
+    }
+  ]
+}
